@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[jiek85~Blog]]></title>
+  <title><![CDATA[jiek85-测试博客~Blog]]></title>
   <link href="http://jiek85.github.com/atom.xml" rel="self"/>
   <link href="http://jiek85.github.com/"/>
-  <updated>2013-03-08T18:26:23+08:00</updated>
+  <updated>2013-07-16T18:25:46+08:00</updated>
   <id>http://jiek85.github.com/</id>
   <author>
     <name><![CDATA[jike85]]></name>
@@ -14,11 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[hello]]></title>
+    <title type="html"><![CDATA[测试博客]]></title>
     <link href="http://jiek85.github.com/blog/2013/03/08/hello/"/>
     <updated>2013-03-08T17:25:00+08:00</updated>
     <id>http://jiek85.github.com/blog/2013/03/08/hello</id>
-    <content type="html"><![CDATA[<h2>hello everyone, welcome to come here!</h2>
+    <content type="html"><![CDATA[<h2>hello everyone, welcome to come here! 测试下.</h2>
 
 ]]></content>
   </entry>
